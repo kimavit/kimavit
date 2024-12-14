@@ -40,10 +40,10 @@
 
 
 ### 📊 GitHub Stats:
-<a href="http://www.github.com/kimavit"><img src="https://github-readme-stats.vercel.app/api?username=Elaidzha1940&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elaidzha1940's GitHub stats" /></a>
+<a href="http://www.github.com/kimavit"><img src="https://github-readme-stats.vercel.app/api?username=kimavit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kimavit's GitHub stats" /></a>
 
-<a href="http://www.github.com/kimavit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elaidzha1940&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kimavit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kimavit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/kimavit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaidzha1940&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kimavit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimavit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=Elaidzha1940&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kimavit&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
