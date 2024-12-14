@@ -11,9 +11,7 @@
 
 ### ⌨️ Tech Stack:
 
-![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white&labelColor=blue&color=blue)  ![Static Badge](https://img.shields.io/badge/FastAPI-lightgreen?style=plastic&logo=fastapi&logoColor=white&labelColor=lightgreen&color=lightgreen) ![Static Badge](https://img.shields.io/badge/SQLAlchemy-red?style=plastic&logo=sqlalchemy&logoColor=white&labelColor=red&color=red)  ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&logoColor=white&labelColor=blue&color=blue) 
-![Static Badge](https://img.shields.io/badge/Redis-darkred?style=plastic&logo=redis&logoColor=white&labelColor=darkred&color=darkred)  ![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=plastic&logo=docker&logoColor=white&labelColor=lightblue&color=lightblue)  ![Static Badge](https://img.shields.io/badge/AWS-orange?style=plastic&logo=amazon-aws&logoColor=white&labelColor=orange&color=orange)  
-
+![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white&labelColor=blue&color=blue)  ![Static Badge](https://img.shields.io/badge/FastAPI-lightgreen?style=plastic&logo=fastapi&logoColor=white&labelColor=lightgreen&color=lightgreen)  ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&logoColor=white&labelColor=blue&color=blue)  ![Static Badge](https://img.shields.io/badge/Docker-lightblue?style=plastic&logo=docker&logoColor=white&labelColor=lightblue&color=lightblue)  
 
 ### 🌐 Find me on:
 <p align="left"> 
