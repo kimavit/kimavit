@@ -2,10 +2,10 @@ About Me:
 -----
 
 #### Hi, I'm Anastasiya! 👋
-##### I’m a passionate Python Developer with a strong focus on building scalable and efficient backend systems.
+##### I’m a passionate Data Scientist | Python Developer with expertise in transforming raw data into actionable insights and building scalable data-driven systems.
 
-- 🌱 Currently exploring advanced Python frameworks and cloud-based development.
-- 🗺️ Working on "Data Insights Tool": A Python-powered analytics platform that extracts meaningful insights from raw data (In progress).
+🌱 Currently exploring: Advanced ML techniques (NLP, Computer Vision), MLOps, and cloud-based AI deployment (AWS/GCP).
+🔍 Working on: "Data Insights Tool" — A Python-powered analytics platform leveraging pandas, Scikit-learn, and LLMs to automate ETL, predictive modeling, and visualization (In progress).
 
 ### ⌨️ Tech Stack:
 
