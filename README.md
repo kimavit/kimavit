@@ -4,8 +4,8 @@ About Me:
 #### Hi, I'm Anastasiya! 👋
 ##### I’m a passionate Data Scientist | Python Developer with expertise in transforming raw data into actionable insights and building scalable data-driven systems.
 
-🌱 Currently exploring: Advanced ML techniques (NLP, Computer Vision), MLOps, and cloud-based AI deployment (AWS/GCP).
- 🔍 Working on: "Data Insights Tool" - a Python-powered analytics platform leveraging pandas, Scikit-learn, and LLMs to automate ETL, predictive modeling, and visualization (In progress).
+- 🌱 Currently exploring: Advanced ML techniques (NLP, Computer Vision), MLOps, and cloud-based AI deployment (AWS/GCP).
+- 🔍 Working on: "Data Insights Tool" - a Python-powered analytics platform leveraging pandas, Scikit-learn, and LLMs to automate ETL, predictive modeling, and visualization (In progress).
 
 ### ⌨️ Tech Stack:
 
