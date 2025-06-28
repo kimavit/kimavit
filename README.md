@@ -1,7 +1,7 @@
 About Me:
 -----
 
-#### Hi, I'm Anastasiya! 👋
+#### Hi, I'm Anastasia! 👋
 ##### I’m a passionate Data Scientist | Python Developer with expertise in transforming raw data into actionable insights and building scalable data-driven systems.
 
 - 🌱 Currently exploring: Advanced ML techniques (NLP, Computer Vision), MLOps, and cloud-based AI deployment (AWS/GCP).
